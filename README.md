@@ -1,8 +1,9 @@
 📦 Card Hover UI Component
-Site is live at https://gaurav-wb.github.io/How-to-create-cards-with-hovering-effect/
+Site is live at https://gaurav-wb.github.io/How-to-create-cards-with-hovering-effect/            
+        
 hover your cursor from div 1 to div 5 to see effects
-📌 Overview
 
+📌 Overview
 This project demonstrates how to create clean, modern card components using HTML and CSS, enhanced with smooth hover animations and a simple fade-in effect. It’s designed as a beginner-friendly foundation for building UI elements commonly used in dashboards, portfolios, and web applications.
 
 🎯 Features
